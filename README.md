@@ -1,1 +1,2 @@
 # OIBGRIP-EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING
+The two common approaches used for filtering spam mails are knowledge engineering and machine learning. Emails are classified as either spam or ham using a set of rules in knowledge engineering. The person using the filter, or the software company that stipulates a specific rule-based spam-filtering tool must create a set of rules. Using this method does not guarantee efficient result since there is need to continually update the rules. This can lead to time wastage and it is not suitable especially for naive users.
